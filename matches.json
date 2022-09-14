@@ -3,7 +3,7 @@
     "descrição" : " Eliminatórias da copa 2022 " ,
     "local" :{
     "nome" : " Maracanã " ,
-    "imagem" : " TODO "
+    "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
   },
   "mandante" : {
     "nome" : " Brasil " ,
@@ -13,7 +13,7 @@
   "mandante" : {
     "nome" : " Argentina " ,
     "forca" : 5 ,
-    "Imagem" : " TODO "
+    "Imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
