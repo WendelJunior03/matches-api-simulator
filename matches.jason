@@ -1,0 +1,19 @@
+[
+  {
+    "descrição" : " Eliminatórias da copa 2022 " ,
+    "local" :{
+    "nome" : " Maracanã " ,
+    "imagem" : " TODO "
+  },
+  "mandante" : {
+    "nome" : " Brasil " ,
+    "forca" : 5 ,
+    "Imagem" : " TODO "
+  },
+  "mandante" : {
+    "nome" : " Argentina " ,
+    "forca" : 5 ,
+    "Imagem" : " TODO "
+    }
+  }
+]
